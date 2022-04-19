@@ -7,11 +7,11 @@
   }
  ],
  "cover": "https://github.com/smallwhite0001/Practical-skills-of-Word/blob/main/cover_Practical-skills-of-Word.jpg?raw=true",
- "description": "本册子介绍 Word 实用技巧集合。",
+ "description": "本册子介绍 Word 实用技巧集合。收录的不是显而易见的基本操作，例如对齐，加粗等。而是不那么容易知道，或很隐蔽不容易找到，又很实用的的操作技巧。",
  "license": "本册子由 Small white 在 XUE.cn 首发。",
  "name": "Word 实用技巧集合",
  "programming_language": "无",
- "category": "用户上传",
+ "category": "用户上传、电脑办公",
  "authors": [
   {
    "avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
@@ -20,7 +20,7 @@
    "role": "origin"
   }
  ],
- "publish_at": "2022-01-11T00:00:00",
+ "publish_at": "2022-04-19T00:00:00",
  "toc_level": 2,
  "version": "0.5"
 }
